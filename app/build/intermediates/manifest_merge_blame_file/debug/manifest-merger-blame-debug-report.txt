@@ -1,0 +1,328 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.test1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <uses-feature
+13-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:7:5-9:35
+14        android:name="android.hardware.camera"
+14-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:8:9-47
+15        android:required="true" />
+15-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:9:9-32
+16
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:11:5-81
+17-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:12:5-81
+18-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:13:5-79
+19-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+20-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:10:5-76
+20-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:10:22-73
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+26
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+27-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
+28    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+28-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+28-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
+29    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+29-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+29-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+30
+31    <application
+31-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:15:5-59:19
+32        android:allowBackup="true"
+32-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:16:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\58385b8291b1fd6a26be4458477abee0\core-1.1.0\AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:17:9-43
+36        android:label="@string/app_name"
+36-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:18:9-41
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:19:9-54
+38        android:supportsRtl="true"
+38-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:20:9-35
+39        android:theme="@style/AppTheme" >
+39-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:21:9-40
+40        <meta-data
+40-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:22:9-24:71
+41            android:name="com.google.android.geo.API_KEY"
+41-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:23:13-58
+42            android:value="AIzaSyCl5MtEv3gAtzz-FL5YcmejOZUIEQHVhwA" />
+42-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:24:13-68
+43
+44        <activity
+44-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:25:9-28:68
+45            android:name="com.example.test1.MapActivity"
+45-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:26:13-40
+46            android:label="@string/title_activity_map"
+46-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:27:13-55
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:28:13-56
+48        <activity android:name="com.example.test1.PermissionActivity" />
+48-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:29:9-56
+48-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:29:19-53
+49        <activity android:name="com.example.test1.upload_data" />
+49-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:30:9-49
+49-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:30:19-46
+50        <activity android:name="com.example.test1.MainActivity" >
+50-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:34:9-40:20
+50-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:34:19-47
+51            <intent-filter>
+51-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:35:13-39:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:36:17-69
+52-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:36:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:38:17-77
+54-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:38:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="com.example.test1.register" />
+57-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:41:9-46
+57-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:41:19-43
+58        <activity android:name="com.example.test1.signup" />
+58-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:42:9-44
+58-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:42:19-41
+59        <activity android:name="com.example.test1.navheader" />
+59-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:43:9-47
+59-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:43:19-44
+60        <activity android:name="com.example.test1.foodimage" />
+60-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:44:9-47
+60-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:44:19-44
+61
+62        <meta-data
+62-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:46:9-48:57
+63            android:name="preloaded_fonts"
+63-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:47:13-43
+64            android:resource="@array/preloaded_fonts" />
+64-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:48:13-54
+65
+66        <provider
+67            android:name="androidx.core.content.FileProvider"
+67-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:51:13-62
+68            android:authorities="com.example.test1.provider"
+68-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:52:13-60
+69            android:exported="false"
+69-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:53:13-37
+70            android:grantUriPermissions="true" >
+70-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:54:13-47
+71            <meta-data
+71-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:55:13-57:54
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:56:17-67
+73                android:resource="@xml/file_paths" />
+73-->D:\Projects\android\Don8_Food-Donation-App-master\app\src\main\AndroidManifest.xml:57:17-51
+74        </provider>
+75
+76        <activity
+76-->[com.karumi:dexter:6.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\12e7f1249a9c0ad43c46ed6849b002dd\jetified-dexter-6.0.0\AndroidManifest.xml:27:9-29:72
+77            android:name="com.karumi.dexter.DexterActivity"
+77-->[com.karumi:dexter:6.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\12e7f1249a9c0ad43c46ed6849b002dd\jetified-dexter-6.0.0\AndroidManifest.xml:28:13-60
+78            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Autocomplete -->
+78-->[com.karumi:dexter:6.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\12e7f1249a9c0ad43c46ed6849b002dd\jetified-dexter-6.0.0\AndroidManifest.xml:29:13-69
+79        <activity
+79-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:16:9-23:20
+80            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+80-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:17:13-91
+81            android:exported="false"
+81-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:18:13-37
+82            android:hardwareAccelerated="true"
+82-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:19:13-47
+83            android:label="@string/places_autocomplete_label"
+83-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:20:13-62
+84            android:theme="@style/PlacesAutocompleteThemeOverlay"
+84-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:21:13-66
+85            android:windowSoftInputMode="stateAlwaysVisible|adjustPan" >
+85-->[com.google.android.libraries.places:places:2.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\76125b7b4cbf359fe234b0c7e10bcca6\jetified-places-2.0.0\AndroidManifest.xml:22:13-71
+86        </activity> <!-- Needs to be explicitly declared on P+ -->
+87        <uses-library
+87-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+88            android:name="org.apache.http.legacy"
+88-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+89            android:required="false" />
+89-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\dfbecb3ee82f5474e3e0181517ac6fb7\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+90
+91        <service
+91-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+92            android:name="com.google.firebase.components.ComponentDiscoveryService"
+92-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:30:13-84
+93            android:directBootAware="true"
+93-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+94            android:exported="false" >
+94-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:31:13-37
+95            <meta-data
+95-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:32:13-34:85
+96                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+96-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:33:17-109
+97                android:value="com.google.firebase.components.ComponentRegistrar" />
+97-->[com.google.firebase:firebase-database:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\1a5026f3fbe77620a165c78f996873fd\jetified-firebase-database-19.2.0\AndroidManifest.xml:34:17-82
+98            <meta-data
+98-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\28d742864c13bc1afbe716a29b0df288\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+99                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+99-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\28d742864c13bc1afbe716a29b0df288\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.firebase:firebase-storage:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\28d742864c13bc1afbe716a29b0df288\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+101            <meta-data
+101-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:36:13-38:85
+102                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+102-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:37:17-109
+103                android:value="com.google.firebase.components.ComponentRegistrar" />
+103-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:38:17-82
+104            <meta-data
+104-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\85a08e49461aa7e43b4a0bafa268ba3e\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+105                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+105-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\85a08e49461aa7e43b4a0bafa268ba3e\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+106                android:value="com.google.firebase.components.ComponentRegistrar" />
+106-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\85a08e49461aa7e43b4a0bafa268ba3e\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+107            <meta-data
+107-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+108                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+108-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+110        </service>
+111
+112        <activity
+112-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:24:9-31:50
+113            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+113-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:25:13-85
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:26:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:27:13-36
+116            android:launchMode="singleTask"
+116-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:28:13-44
+117            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+117-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:29:13-102
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.firebase:firebase-auth:19.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\882a2f55b7e519561eff90f29c3092a5\jetified-firebase-auth-19.1.0\AndroidManifest.xml:30:13-72
+119
+120        <provider
+120-->[com.squareup.picasso:picasso:2.71828] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\237c8dfd85bba50474515ff5551260e9\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+121            android:name="com.squareup.picasso.PicassoProvider"
+121-->[com.squareup.picasso:picasso:2.71828] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\237c8dfd85bba50474515ff5551260e9\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+122            android:authorities="com.example.test1.com.squareup.picasso"
+122-->[com.squareup.picasso:picasso:2.71828] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\237c8dfd85bba50474515ff5551260e9\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+123            android:exported="false" />
+123-->[com.squareup.picasso:picasso:2.71828] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\237c8dfd85bba50474515ff5551260e9\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+124
+125        <receiver
+125-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+126            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+126-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+127            android:enabled="true"
+127-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+128            android:exported="false" >
+128-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+129        </receiver>
+130        <receiver
+130-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+131            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+131-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+132            android:enabled="true"
+132-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+133            android:exported="true"
+133-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+134            android:permission="android.permission.INSTALL_PACKAGES" >
+134-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+135            <intent-filter>
+135-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+136                <action android:name="com.android.vending.INSTALL_REFERRER" />
+136-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+136-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+137            </intent-filter>
+138        </receiver>
+139
+140        <service
+140-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+141            android:name="com.google.android.gms.measurement.AppMeasurementService"
+141-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+142            android:enabled="true"
+142-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+143            android:exported="false" />
+143-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+144        <service
+144-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+145            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+145-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+146            android:enabled="true"
+146-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+148            android:permission="android.permission.BIND_JOB_SERVICE" />
+148-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\e2e5b9a627b0c2071c1ea28d1fc18441\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+149
+150        <receiver
+150-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+151            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+151-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+152            android:exported="true"
+152-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+153            android:permission="com.google.android.c2dm.permission.SEND" >
+153-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+154            <intent-filter>
+154-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+155                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+155-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+155-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\f99d3b900649924233da7eedbbfffe11\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+156            </intent-filter>
+157        </receiver>
+158
+159        <provider
+159-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+160            android:name="com.google.firebase.provider.FirebaseInitProvider"
+160-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+161            android:authorities="com.example.test1.firebaseinitprovider"
+161-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+162            android:exported="false"
+162-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+163            android:initOrder="100" />
+163-->[com.google.firebase:firebase-common:19.2.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\0ccb3fb62bdce82ed877692996525519\jetified-firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+164
+165        <activity
+165-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\4e425e74679992be4e46ac462f0e0749\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+166            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+166-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\4e425e74679992be4e46ac462f0e0749\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+167            android:exported="false"
+167-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\4e425e74679992be4e46ac462f0e0749\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+168            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+168-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\4e425e74679992be4e46ac462f0e0749\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+169
+170        <meta-data
+170-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\c9866b874029c45e996d5b39eae7092e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+171            android:name="com.google.android.gms.version"
+171-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\c9866b874029c45e996d5b39eae7092e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+172            android:value="@integer/google_play_services_version" />
+172-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ReverseZombie\.gradle\caches\transforms-2\files-2.1\c9866b874029c45e996d5b39eae7092e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+173    </application>
+174
+175</manifest>

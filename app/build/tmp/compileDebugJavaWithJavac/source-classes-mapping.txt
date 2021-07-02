@@ -1,0 +1,88 @@
+com/example/test1/SecondFragmentArgs.java
+ com.example.test1.SecondFragmentArgs
+ com.example.test1.SecondFragmentArgs$1
+ com.example.test1.SecondFragmentArgs$Builder
+com/example/test1/clothes_fragment.java
+ com.example.test1.clothes_fragment
+com/example/test1/foodimage.java
+ com.example.test1.foodimage
+ com.example.test1.foodimage$1
+com/example/test1/PermissionActivity.java
+ com.example.test1.PermissionActivity
+ com.example.test1.PermissionActivity$1
+ com.example.test1.PermissionActivity$1$1
+ com.example.test1.PermissionActivity$1$1$1
+com/example/test1/RAdapter.java
+ com.example.test1.RAdapter
+ com.example.test1.RAdapter$Holder
+com/example/test1/DatabaseHelper.java
+ com.example.test1.DatabaseHelper
+com/example/test1/flood_fragment.java
+ com.example.test1.flood_fragment
+ com.example.test1.flood_fragment$1
+ com.example.test1.flood_fragment$2
+ com.example.test1.flood_fragment$3
+ com.example.test1.flood_fragment$4
+com/example/test1/SecondFragment.java
+ com.example.test1.SecondFragment
+ com.example.test1.SecondFragment$1
+com/example/test1/uploadinfo.java
+ com.example.test1.uploadinfo
+com/example/test1/foodrecycler.java
+ com.example.test1.foodrecycler
+com/example/test1/BuildConfig.java
+ com.example.test1.BuildConfig
+com/example/test1/home_fragment.java
+ com.example.test1.home_fragment
+com/example/test1/MainActivity.java
+ com.example.test1.MainActivity
+ com.example.test1.MainActivity$1
+ com.example.test1.MainActivity$2
+com/example/test1/MapActivity.java
+ com.example.test1.MapActivity
+ com.example.test1.MapActivity$1
+ com.example.test1.MapActivity$2
+ com.example.test1.MapActivity$2$1
+ com.example.test1.MapActivity$3
+ com.example.test1.MapActivity$3$1
+ com.example.test1.MapActivity$3$2
+ com.example.test1.MapActivity$3$3
+ com.example.test1.MapActivity$4
+ com.example.test1.MapActivity$4$1
+ com.example.test1.MapActivity$5
+ com.example.test1.MapActivity$6
+ com.example.test1.MapActivity$7
+ com.example.test1.MapActivity$8
+ com.example.test1.MapActivity$8$1
+com/example/test1/register.java
+ com.example.test1.register
+ com.example.test1.register$1
+ com.example.test1.register$2
+com/example/test1/signup.java
+ com.example.test1.signup
+com/example/test1/FirstFragment.java
+ com.example.test1.FirstFragment
+ com.example.test1.FirstFragment$1
+com/example/test1/upload_data.java
+ com.example.test1.upload_data
+ com.example.test1.upload_data$1
+ com.example.test1.upload_data$2
+ com.example.test1.upload_data$3
+ com.example.test1.upload_data$4
+ com.example.test1.upload_data$5
+ com.example.test1.upload_data$5$1
+com/example/test1/navheader.java
+ com.example.test1.navheader
+com/example/test1/food_fragment.java
+ com.example.test1.food_fragment
+ com.example.test1.food_fragment$1
+ com.example.test1.food_fragment$2
+ com.example.test1.food_fragment$3
+com/example/test1/fooddata.java
+ com.example.test1.fooddata
+com/example/test1/SecondFragmentDirections.java
+ com.example.test1.SecondFragmentDirections
+com/example/test1/FirstFragmentDirections.java
+ com.example.test1.FirstFragmentDirections
+ com.example.test1.FirstFragmentDirections$1
+ com.example.test1.FirstFragmentDirections$ActionFirstFragmentToSecondFragment

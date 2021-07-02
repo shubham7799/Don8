@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936458918113",
+    "firebase_url": "https://donate-app-d9de7.firebaseio.com",
+    "project_id": "donate-app-d9de7",
+    "storage_bucket": "donate-app-d9de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936458918113:android:2a3b25bea5161852dbbfa0",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936458918113-thjnnf2uhasuu2oqie7eq6rnlvj4lhkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOxx0aT-iwy4HEVABz5BtyFirfVUHeeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936458918113-thjnnf2uhasuu2oqie7eq6rnlvj4lhkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

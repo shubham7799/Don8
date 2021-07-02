@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_profile"
+            android:title="HOME" />
+        <item android:title="Categories">
+                <item
+                    android:id="@+id/food"
+                    android:icon="@drawable/food"
+                    android:title="FOOD" />
+                <item
+                android:id="@+id/clothes"
+                android:icon="@drawable/clothes"
+                android:title="CLOTHES" />
+                <item
+                    android:id="@+id/flood"
+                    android:icon="@drawable/f3"
+                    android:title="DISASTER RELIEF" />
+        </item>
+        <item
+            android:id="@+id/members"
+            android:icon="@drawable/ic_groupmembers"
+            android:title="ABOUT US" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Logout" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_close_black_24dp"
+            android:title="Exit" />
+    </group>
+
+</menu>

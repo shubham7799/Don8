@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_food_recycler.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\food_recycler.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\w2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloth2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\cloth2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_small.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\small.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\w1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_floody.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\floody.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filter_4_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oth.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\oth.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-xxhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_water.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\water.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter_4_black_24dp.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter_4_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\e2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter_4_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-xhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloth3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\cloth3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_d2.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\d2.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_pass.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\pass.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\w3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-mdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filter_4_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blood2.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\blood2.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_medium.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\quicksand_medium.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cake_black_24dp.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cake_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_clothes.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_clothes.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_placeholder.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_placeholder.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\w4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_4.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_4.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\e1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_floody2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\floody2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\ic2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_5.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_5.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_architects_daughter.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\architects_daughter.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_profile.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_data.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\activity_upload_data.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_call_black_24dp.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_draw.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\draw.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_6.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_6.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_o1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\o1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drop.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\drop.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_finger_paint.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\finger_paint.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blood1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\blood1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_categories.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_categories.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_3.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_3.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clothes.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\clothes.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homei1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\homei1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\homepage.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter_4_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_map.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\content_map.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hicon1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\hicon1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home8.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\home8.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_groupmembers.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_groupmembers.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_1.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_1.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tryy.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\tryy.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_user.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\user.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_aboutus.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_aboutus.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_permission.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flood.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\flood.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_2.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_2.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close_black_24dp.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_categories.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_categories.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_groupmembers.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_groupmembers.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filter_4_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_d1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\d1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_5.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_view.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_food.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hicon3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\hicon3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_don.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\don.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cake_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cake_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeico1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\homeico1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_7.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_7.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_advent_pro_medium.ttf.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\advent_pro_medium.ttf"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_6.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_4.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_sans_sc.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\alegreya_sans_sc.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hicon2.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\hicon2.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flood.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\layout\\fragment_flood.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_placeholder.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_3.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_profile.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_1.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ico.jpg.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\ico.jpg"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloth.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable\\cloth.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_7.xml.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_7.xml"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pass.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\drawable-hdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\font_ntr.ttf.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\src\\main\\res\\font\\ntr.ttf"
+    },
+    {
+        "merged": "E:\\old\\FinalDon8\\test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter_4_black_24dp.png.flat",
+        "source": "E:\\old\\FinalDon8\\test1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filter_4_black_24dp.png"
+    }
+]

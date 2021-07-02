@@ -1,0 +1,4 @@
+#Wed Jun 09 17:38:08 IST 2021
+base.0=D\:\\Projects\\android\\Don8_Food-Donation-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
